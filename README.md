@@ -1,1 +1,1 @@
-# python-1-dars
+# python-javoblarim
