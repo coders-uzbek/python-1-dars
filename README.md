@@ -1,1 +1,1 @@
-# python-javoblarim
+# python-javoblar
