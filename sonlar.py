@@ -2,7 +2,7 @@
 """
 Created on Sun Jun  4 15:58:50 2023
 
-@author: DELL
+@author: QUVONCHBEK
 """
 # integers-butun sonlar ustida + - * / kabi arifmetik amallarni bajarish mumkin
 a = 68

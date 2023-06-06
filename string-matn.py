@@ -2,7 +2,7 @@
 """
 Created on Sat Jun  3 14:47:59 2023
 
-@author: DELL
+@author: QUVONCHBEK
 """
 # string ya'ni matn ustida amallar bajarish mumkin:
 ism = 'Quvonchbek'

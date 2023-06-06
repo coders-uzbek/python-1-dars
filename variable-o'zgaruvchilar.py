@@ -2,7 +2,7 @@
 """
 Created on Fri Jun  2 16:55:54 2023
 
-@author: DELL
+@author: QUVONCHBEK
 """
 # o'zgaruvchilar haqida tanishamiz:
 ism = "Quvonchbek"

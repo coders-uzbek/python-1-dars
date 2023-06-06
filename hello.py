@@ -2,7 +2,7 @@
 """
 Created on Sun May 28 06:34:02 2023
 
-@author: DELL
+@author: QUVONCHBEK
 """
 #Birinchi dasturni yozamiz:
 print("Hello World!")

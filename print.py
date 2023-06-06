@@ -2,7 +2,7 @@
 """
 Created on Fri Jun  2 16:23:09 2023
 
-@author: DELL
+@author: QUVONCHBEK
 """
 #print funksyasi ' yoki " bilan boshlanib tugashi kerak
 print("Hayrli tong!") #yoki
