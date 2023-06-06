@@ -30,5 +30,4 @@ print(oziq)
 # ['non', 'olma', 'anjir', 'shaftoli']
 mahsulot = oziq.pop(1)
 print(mahsulot)
-# olma
  
