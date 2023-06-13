@@ -2,7 +2,7 @@
 """
 Created on Mon Jun 12 07:35:31 2023
 
-@author: DELL
+@author: Quvonchbek
 """
 #car = {'model':'tesla','rang':'qora'}
 #print(car['model'])
