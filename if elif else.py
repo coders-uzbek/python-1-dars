@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Fri Jun  9 10:21:04 2023
+Created on Tue Jun 13 17:23:48 2023
 
 @author: Quvonchbek
 """
@@ -40,11 +40,4 @@ else:
 foods = ['osh,manti,somsa,lavash']
 'shashlik' in foods
 # true foods da yo'q
-
-
-
-
-
-
-    
 
