@@ -48,3 +48,6 @@ print(moshina)
 moshina = cars.get('temur','Bu ism mavjud emas!')
 print(moshina)
 # BNW
+
+
+
