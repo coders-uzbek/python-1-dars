@@ -103,4 +103,31 @@ for tel in set(telefonlar.values()):
 # huawei p30
 # iphone x
 
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     
