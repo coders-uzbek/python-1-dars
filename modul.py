@@ -49,17 +49,3 @@ ismlar = ['olim','anvar','hasan','husan']
 ism = r.choice(ismlar) # ismlar dan tasodifiy ism tanlaymiz
 print(ism)
 print(r.choice(ism)) # ismdan tasodifiy harf tanlaymiz
-
- 
-
-
-
-
-
-
-
-
-
-
-
-

@@ -38,5 +38,3 @@ def info_print(avto_info):
     print(f"{avto_info['rang'].title()} {avto_info['kompaniya'].upper()} "
           f"{avto_info['model'].upper()}, {avto_info['korobka']} korobka, "
           f"{avto_info['yil']}-yil, {avto_info['narh']}$")
-    
-        
