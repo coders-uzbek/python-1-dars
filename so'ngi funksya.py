@@ -68,3 +68,4 @@ bosh_oxir = list(filter(lambda meva:(meva.startswith('a') and meva.endswith('r')
 print(bosh_oxir)
 # ['anor', 'anjir']
 
+
