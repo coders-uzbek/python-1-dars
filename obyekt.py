@@ -5,27 +5,27 @@ Created on Thu Jul 27 06:25:37 2023
 @author: Quvonchbek
 """
 
-class Talaba:
-    """Talaba nomli klass yaratamiz"""
-    def __init__(self,ism,familiya,tyil):
-        """Talabaning xususiyatlari"""
-        self.ism = ism
-        self.familiya = familiya
-        self.tyil = tyil
-        self.bosqich = 1
+class Talaba:   
+    """Talaba nomli klass yaratamiz"""   
+    def __init__(self,ism,familiya,tyil):    
+        """Talabaning xususiyatlari """ 
+        self.ism = ism   
+        self.familiya = familiya   
+        self.tyil = tyil    
+        self.bosqich = 1    
     
-    def get_info(self):
-        return f"{self.ism} {self.familiya}. {self.bosqich}-bosqich talabasi "
-talaba1 = Talaba("Alijon","Valiyev",2000)
-print(talaba1.get_info())
+    def get_info(self):   
+        return f"{self.ism} {self.familiya}. {self.bosqich}-bosqich talabasi "  
+talaba1 = Talaba("Alijon","Valiyev",2000)   
+print(talaba1.get_info())   
 
-talaba1.bosqich= 2
-print(talaba1.bosqich)
+talaba1.bosqich= 2   
+print(talaba1.bosqich)  
 
-class Talaba:
-    """Talaba nomli klass yaratamiz"""
-    def __init__(self,ism,familiya,tyil):
-        """Talabaning xususiyatlari"""
+class Talaba:  
+    """Talaba nomli klass yaratamiz"""   
+    def __init__(self,ism,familiya,tyil):  
+        """Talabaning xususiyatlari"""   
         self.ism = ism
         self.familiya = familiya
         self.tyil = tyil
@@ -98,20 +98,10 @@ class Fan():
         self.talabalar.append(talaba)
         self.talabalar_soni += 1
     
-    def get_students(self):
-        return [talaba.get_info() for talaba in self.talabalar]
+    def get_students(self): 
+        return [talaba.get_info() for talaba in self.talabalar]   
         
-mat_talabalar = matematika.get_students()
-print(mat_talabalar)
+mat_talabalar = matematika.get_students()  
+print(mat_talabalar)  
         
 
-    
-        
-        
-        
-        
-        
-        
-        
-        
-        
