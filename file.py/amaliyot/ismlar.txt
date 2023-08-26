@@ -1,0 +1,12 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Sat Aug 26 15:34:18 2023
+
+@author: Quvonchbek
+"""
+Alijon Valiyev
+Solijon Sharipov
+Munisa Voisova
+Madina Xoliqova
+Bahtiyor Tohirov
+Zamir Damirov
