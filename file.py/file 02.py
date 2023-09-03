@@ -1,14 +1,17 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sat Aug 26 15:44:21 2023
+Created on Sun Sep  3 13:56:56 2023
 
-@author: Quvoncbek
+@author: Quvonchbek
 """
-import pickle
-
-talaba1 = {"ism": "hasan", "familiya": "husanov", "tyil": 2003, "kurs": 2}
-talaba2 = {"ism": "alijon", "familiya": "valiyev", "tyil": 2004, "kurs": 1}
-
-with open("info", "wb") as file:
-    pickle.dump(talaba1, file)
-    pickle.dump(talaba2, file)
+faylnomi = 'new_file.txt'
+ism = 'Olimjon Hasanov'
+tyil = 2004
+with open(faylnomi,'w') as fayl:
+    fayl.write(ism+'\n')
+    fayl.write(str(tyil)+'\n')
+    
+    
+with open(faylnomi,'a') as fayl:
+    fayl.write('Alijon Valiyev\n')
+    fayl.write('2000')
