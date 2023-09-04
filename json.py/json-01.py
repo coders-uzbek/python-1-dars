@@ -21,7 +21,7 @@ m_json = json.dumps(m)
 
 sonlar = (12, 45, 23, 67)
 sonlar_json = json.dumps(sonlar)
-
+7
 
 bemor = {
     "ism": "Alijon Valiyev",
@@ -37,7 +37,6 @@ bemor = {
 
 bemor_json = json.dumps(bemor)
 print(bemor_json)
-
 with open("sonlar.json", "w") as f:
     json.dump(sonlar, f)
 
