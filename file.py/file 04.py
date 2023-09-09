@@ -12,3 +12,5 @@ with open("info", "rb") as file:
 
 print(talaba1)
 print(talaba2)
+
+
